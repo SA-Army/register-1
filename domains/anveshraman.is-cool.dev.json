@@ -1,0 +1,16 @@
+{
+  "description": "AI Image Generation",
+
+  "domain": "is-cool.dev",
+  "subdomain": "anveshraman",
+
+  "owner": {
+    "email": "anveshraman.ae@gmail.com"
+  },
+
+  "record": {
+    "NS": ["aryanna.ns.cloudflare.com", "johnathan.ns.cloudflare.com"]
+  },
+
+  "proxied": false
+}
